@@ -27,7 +27,7 @@ Please read this Privacy Policy carefully. By using the App, you agree to the co
 The App requests the following permissions to function properly:
 
 #### Camera Permission
-- **Purpose:** To record Beyblade battle videos
+- **Purpose:** To record Reblade battle videos
 - **Usage:** Videos are recorded locally on your device
 - **Storage:** All recordings are saved to your device's local storage in the "ReBlade Battles" album
 - **Data Sharing:** We do not access, transmit, or share your camera data
